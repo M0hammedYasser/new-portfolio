@@ -114,7 +114,7 @@ export default function Hero() {
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-background shadow-xl">
               <Image
                 src="/profile.png"
-                alt="Essam Mohamed"
+                alt="Muhammed Yasser"
                 fill
                 className="object-cover"
                 priority

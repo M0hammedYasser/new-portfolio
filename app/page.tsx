@@ -12,7 +12,7 @@ import ThemeToggle from "@/components/theme-toggle";
 export const metadata: Metadata = {
   title: "Muhammed Yasser",
   description:
-    "Professional portfolio of Essam Mohamed, a front-end developer specializing in React, Next.js, and modern web technologies.",
+    "Professional portfolio of Muhammed Yasser, a Software developer specializing in Java, Spring framework and Spring boot.",
 };
 
 export default function Home() {

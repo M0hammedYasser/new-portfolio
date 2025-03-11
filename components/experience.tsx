@@ -5,51 +5,43 @@ import { Briefcase, Calendar, GraduationCap, MapPin } from "lucide-react";
 
 const workExperience = [
   {
-    title: "Front-End Developer",
-    company: "Freelance (Upwork & Nafathli)",
-    location: "Remote",
-    period: "2025 - Present",
+    title: "Full Stack Developer",
+    company: "Zagazig University",
+    location: "OnSite",
+    period: "Dec 2024 – Present",
     description: [
-      "Developing modern web applications using Next.js and Tailwind CSS",
-      "Building interactive UI components with a strong focus on performance and user experience",
-      "Collaborating with clients to deliver customized front-end solutions",
-      "Optimizing web apps for SEO and accessibility",
+      "Developed and maintained enterprise applications for the university, focusing on Archive management, Website" ,
+      "development, and Parking Management System." ,
+      "Designed and developed a document storage and retrieval system using Spring Boot and Angular.\n" ,
+      "Developed a Parking management system to track and manage university parking." ,
+      "Contributed to the development and maintenance of the official university website using ASP.NET and SQL Server"
     ],
   },
   {
-    title: "Front-End Developer",
-    company: "Postly (Personal Project)",
-    location: "Remote",
-    period: "2025 - Present",
+    title: "Java Developer",
+    company: "",
+    location: "FreeLance",
+    period: "Sep 2023 – Jul 2024",
     description: [
-      "Developed a social platform where users can create profiles and post prompts",
-      "Implemented authentication and authorization with NextAuth.js",
-      "Designed reusable UI components using Tailwind CSS",
-      "Integrated Mongoose for database management",
+      "Developed and maintained server-side components using Java, Spring Boot, and Hibernate, ensuring efficient data." ,
+      "processing and system performance." ,
+      "Built and consumed RESTful APIs to integrate with frontend components and external systems, ensuring seamless communication and data exchange." ,
+      "Integrated MySQL database to support application data storage, ensuring optimal performance and scalability for high-traffic applications.",
+      "Optimized application performance through code refactoring and query optimization, improving response time by 25%."
     ],
   },
   {
-    title: "Front-End Developer",
-    company: "dashMinds (Dashboard Project)",
-    location: "Remote",
-    period: "2025 - Present",
+    title: "Software Developer",
+    company: "Ideal System Company",
+    location: "Onsite",
+    period: "Aug 2022 – Mar 2024",
     description: [
-      "Designed and developed a dashboard interface for employee and department management",
-      "Used App Router in Next.js for optimized routing and better performance",
-      "Implemented role-based access control for administrators and users",
+      "Designed, developed, and maintained desktop applications using VB.NET and C#, enhancing system performance." ,
+      "Collaborated with cross-functional teams to deliver software solutions on time and within budget, contributing to a 15% increase in project efficiency" ,
+      "Created and optimized SQL Server database objects, including tables and indexes, resulting in a 20% improvement in query performance."
     ],
   },
-  {
-    title: "WordPress Developer",
-    company: "Tech Solutions Company",
-    location: "Alexandria, Egypt",
-    period: "2024",
-    description: [
-      "Worked on building and customizing WordPress websites",
-      "Optimized website performance and enhanced UI/UX",
-      "Integrated plugins and third-party APIs for additional functionalities",
-    ],
-  },
+
 ];
 
 const education = [
@@ -58,8 +50,7 @@ const education = [
     institution: "Zagazig University",
     location: "Zagazig, Egypt",
     period: "2024",
-    description:
-    "Currently studying computer science with a focus on front-end development, web technologies, and modern frameworks. Working on various academic projects related to web applications and AI."
+    description:""
   },
 ];
 

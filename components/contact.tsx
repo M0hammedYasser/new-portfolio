@@ -101,7 +101,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-medium">Location</h4>
-                  <p className="">Alex , Egyptlifornia</p>
+                  <p className="">Cairo , Egypt</p>
                 </div>
               </div>
 
@@ -111,7 +111,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-medium">Email</h4>
-                  <p className="">essam.mohamed.dev@gmail.com</p>
+                  <p className="">muhmdyasser0@gmail.com</p>
                 </div>
               </div>
 
@@ -121,7 +121,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-medium">Phone</h4>
-                  <p className="">+ 20 1068446885</p>
+                  <p className="">+ 20 1014129303</p>
                 </div>
               </div>
             </div>
@@ -136,7 +136,7 @@ export default function Contact() {
               className="rounded-full"
             >
               <Link
-                href="https://github.com/DevNexEssam"
+                href="https://github.com/M0hammedYasser"
                 target="_blank"
                 aria-label="GitHub"
               >
@@ -149,13 +149,6 @@ export default function Contact() {
               size="icon"
               className="rounded-full"
             >
-              <Link
-                href="https://www.instagram.com/essam_iam/"
-                target="_blank"
-                aria-label="GitHub"
-              >
-                <Instagram className="h-5 w-5" />
-              </Link>
             </Button>
             <Button
               asChild
@@ -164,7 +157,7 @@ export default function Contact() {
               className="rounded-full"
             >
               <Link
-                href="https://www.linkedin.com/in/essam-mohamed-829b27342/"
+                href="https://www.linkedin.com/in/muhammad-yasser-9b2736251/"
                 target="_blank"
                 aria-label="LinkedIn"
               >
@@ -178,7 +171,7 @@ export default function Contact() {
               className="rounded-full"
             >
               <Link
-                href="mailto:essam.mohamed.dev@gmail.com"
+                href="mailto:muhmdyasser0@gmail.com"
                 aria-label="Email"
               >
                 <Mail className="h-5 w-5" />
