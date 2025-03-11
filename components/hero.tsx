@@ -47,9 +47,9 @@ export default function Hero() {
           </p>
 
           <div className="flex flex-wrap gap-4 justify-center md:justify-start pt-2">
-            <Button asChild size="lg">
-              <Link href="#projects">View My Work</Link>
-            </Button>
+            {/*<Button asChild size="lg">*/}
+            {/*  <Link href="#projects">View My Work</Link>*/}
+            {/*</Button>*/}
             <Button asChild variant="outline" size="lg">
               <Link href="#contact">Contact Me</Link>
             </Button>

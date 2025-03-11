@@ -37,7 +37,7 @@ const skills = [
     title: "Databases ",
     description:
       "Handling application state efficiently for scalable applications.",
-    technologies: ["MS SQL Server", "MYSQL" , "PostgreSQL"],
+    technologies: ["MS SQL Server", "MYSQL" , "PostgreSQL" , "Oracle Database"],
   },
   {
     icon: <Terminal className="h-8 w-8 mb-4 text-primary" />,
@@ -51,7 +51,7 @@ const skills = [
     title: "Development Tools",
     description:
       "Optimizing workflows with modern development and build tools.",
-    technologies: ["Intellij", "ESLint", "Prettier"],
+    technologies: ["IntelliJ IDEA ", "Eclipse", "Maven","Apache Tomcat" , "Postman"],
   },
   {
     icon: <Layers className="h-8 w-8 mb-4 text-primary" />,
